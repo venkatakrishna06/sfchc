@@ -8,8 +8,8 @@ $s3Client = new S3Client([
     'version' => 'latest',
     'region' => 'ap-south-1',
     'credentials' => [
-        'key'    => 'AKIAYNYUU42ITTFTCEE6',
-        'secret' => '8v9HD127XMTug0FqJf+Yg2brMGdeP7N/6LJT1Yt4'
+        'key'    => 'add your key here',
+        'secret' => 'add your key here'
     ]
 ]); 
 ?>
